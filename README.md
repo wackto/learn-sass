@@ -11,7 +11,7 @@ https://www.dyclassroom.com/howto-mac/how-to-install-nodejs-and-npm-on-mac-using
  * "Forkez" ce projet sur votre compte github. Cela va créer une copie du projet pour vous sur votre compte.
  * Récupérez le projet en local chez vous
   ```bash
-  git clone git@github.com:SergioMendolia/learn-sass.git
+  git clone git@github.com:elegna/learn-sass.git
   ```
 
 ## Installation
