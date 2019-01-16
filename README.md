@@ -14,7 +14,7 @@ https://www.dyclassroom.com/howto-mac/how-to-install-nodejs-and-npm-on-mac-using
   git clone git@github.com:SergioMendolia/learn-sass.git
   ```
 
-## Faire fonctionner le serveur de développement
+## Installation
 ```bash
 npm install
 ```
@@ -25,6 +25,7 @@ Vous pouvez à tout moment supprimer ce dossier et relancer la commande.
 
 __il suffit de faire ceci la première fois, il n'y a pas besoin de le refaire les fois suivantes__
 
+## Lancement du serveur de dév
 ```bash
 npm run serve
 ```
