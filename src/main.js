@@ -1,2 +1,2 @@
 
-import "@/assets/app.scss"
+import "@/assets/global.scss"
